@@ -10,7 +10,7 @@ This bot will accept the following commands,
 /stepupbot , steps the bot up to the dj spot
 /stepdownbot , ^ steps down
 /botvoteup , makes bot vote manually
-
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Be Sure to add your bots login information before running...
 
 
